@@ -11,9 +11,9 @@ https://ikiwiki.info/download/
 To make a local working copy, clone this repository:
 * https://github.com/usvdh/hku-one-root
 
-Then clone the following two into the "digitalfrontiercc_root" directory:
-* https://github.com/digitalfrontiercc/hku-one-dest
-* https://github.com/digitalfrontiercc/hku-one-src
+Then clone the following two into the "hku-one" directory:
+* https://github.com/usvdh/hku-one-dest
+* https://github.com/usvdh/hku-one-src
 
 Now you should have a director "hku-one-root", with inside "hku-one-src", "hku-one-dest" and "hku-one.setup"
 
