@@ -2,7 +2,7 @@
 This is the root repository for the [hku.one](https://hku.one/) wiki. This wiki uses [ikiwiki](https://ikiwiki.info/).
 
 As GitHub pages is static, there are currently two ways to contribute:
-* E-mail me with the contents, and I will make the changes on the wiki on this side. See the contributing page on digitalfrontier.cc for details.
+* E-mail me with the contents, and I will make the changes on the wiki on this side. See the contributing page on hku.one for details.
 * Make a local copy of the wiki on your laptop. This is slightly complicated and more work, so it is not the recommended method. 
 
 First, install ikiwiki:
