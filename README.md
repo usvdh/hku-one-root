@@ -1,3 +1,4 @@
+# hku.one
 This is the root repository for the [hku.one](https://hku.one/) wiki. This wiki uses [ikiwiki](https://ikiwiki.info/).
 
 As GitHub pages is static, there are currently two ways to contribute:
